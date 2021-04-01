@@ -1,0 +1,9 @@
+[template]
+src = "hello.sh"
+dest = "/configs/hello.sh"
+uid = 0
+gid = 0
+mode = "0644"
+keys = [
+	"/"
+]

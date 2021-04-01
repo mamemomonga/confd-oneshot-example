@@ -1,0 +1,3 @@
+*** START HELLO.TXT ***
+{{ getv "/myconfig/text" }}
+*** END HELLO.TXT ***
